@@ -1,0 +1,68 @@
+.main-div{
+
+    width: 1261px;
+    height: 700px;
+    background-color: rgb(234, 234, 234);
+    background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=861,h=716,fit=crop/presson88qto/img-mk330zpN5nuk7Pw9.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 79%;
+}
+.number
+{
+    font-size: 148px;
+    font-weight: bold;
+    position: relative;
+    top: 30%;
+    left: 1in;
+}
+.contact
+{
+    border: 1px solid;
+    width: 1261px;
+    height: 450px;
+    background-color: rgb(217, 223, 229); 
+    display: flex;
+}
+.send
+{
+    width: 600px;
+    height: 680px;
+}
+.us
+{
+    font-size: 72px;
+}
+.inte
+{
+    font-size: small;
+}
+.have
+{
+    width: 300px;
+    height: 80px;
+}
+.name
+{
+    width: 400px;
+    height: 34px;
+    margin-left: 30px;
+}
+.form
+{
+    width: 661px;
+    height: 680px;
+}
+.submit
+{
+    width: 117px;
+    height: 30px;
+    margin-left: 30px;
+    margin-top: 80px;
+}
+.mess
+{
+    width: 400px;
+    height: 84px;
+    margin-left: 30px;
+}
